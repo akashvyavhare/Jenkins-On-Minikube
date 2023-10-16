@@ -8,6 +8,8 @@ Step 1: Install minikube on ubuntu system  or  Ubuntu ec2  Instance
 
     i. : curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
 
+    ii. : sudo apt-get update
+
     ii : sudo install minikube-linux-amd64 /usr/local/bin/minikube
 
 Step 2: After install Start minikube 
