@@ -11,7 +11,9 @@ Step 1: Install minikube on ubuntu system  or  Ubuntu ec2  Instance
     ii : sudo install minikube-linux-amd64 /usr/local/bin/minikube
 
 Step 2: After install Start minikube 
-      
+
+  Perform below Step:
+  
     i. : minikube start                    # Start minikube with default setting
     ii.: minikube start --memory=5000MB    # start minikube with 5000MB of Memory 
 
