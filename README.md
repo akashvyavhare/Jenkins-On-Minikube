@@ -2,12 +2,13 @@
 
 
 
-install minikube on ubuntu system 
+Step 1: Install minikube on ubuntu system  or  Ubuntu ec2  Instance
 
+  Perform below Step:
 
-curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
+    i. : curl -LO https://storage.googleapis.com/minikube/releases/latest/minikube-linux-amd64
 
-sudo install minikube-linux-amd64 /usr/local/bin/minikube
+    ii : sudo install minikube-linux-amd64 /usr/local/bin/minikube
 
 After install start minikube 
 minikube start
